@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "06a3",
+      "name": "swqd",
+      "contactNumber": "2323232312",
+      "email": "dsrf@ere4.ewrwe",
+      "companyName": "qweqw",
+      "city": "qweqwe",
+      "isin": "INE213232323"
+    },
+    {
+      "id": "6073",
+      "name": "qwsdqw",
+      "contactNumber": "4545454545",
+      "email": "sdfd@sgyvd.com",
+      "companyName": "jidbnw",
+      "city": "sibdqhiw",
+      "isin": "INE454545454"
+    },
+    {
+      "id": "ffc6",
+      "name": "wdwdwq",
+      "contactNumber": "1234567890",
+      "email": "wdws@dfwe.sd",
+      "companyName": "weqd",
+      "city": "wqeqw"
+    },
+    {
+      "id": "440d",
+      "name": "ded",
+      "contactNumber": "1234567890",
+      "email": "wdqwd@fwee.we",
+      "companyName": "febyfy",
+      "city": "jwndfui"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "que": "Q: What is an ISIN?",
+    "ans": "A: An ISIN (International Securities Identification Number) is a unique code used to identify a specific securities issue such as stocks, bonds, or other financial instruments."
+  },
+  {
+    "que": "Q: Why is an ISIN important?",
+    "ans": "A: When purchasing, selling, or trading financial instruments on international marketplaces, ISINs serve to clear up any uncertainty by standardizing the identification of securities worldwide. Financial institutions, brokers, and investors may all swiftly and precisely identify securities."
+  },
+  {
+    "que": "Q: Who assigns an ISIN? ",
+    "ans": "A: ISINs are typically assigned by a national numbering agency (NNA) in each country. In India, NSDL ( National Securities Depository Limited ) and CDSL ( Central Depository Services Limited ) has the authority to issue ISIN."
+  },
+  {
+    "que": "Q: How can I find the ISIN for a particular security?",
+    "ans": "A: ISINs for specific securities can usually be found through public databases maintained by stock exchanges or Depositories ( NSDL / CDSL )."
+  },
+  {
+    "que": "Q: What does the structure of an ISIN look like?",
+    "ans": "A: An ISIN is composed of 12 characters The first two letters are the country code (e.g. 'IN' for the India ).The next nine characters are the unique identifier for the security.The last character is a check digit used for verification of the code’s validity."
+  },
+  {
+    "que": "Q: Can an ISIN be changed?",
+    "ans": "A: Typically, once an ISIN is assigned to a security, it remains unchanged for the life of that security. However, if a security undergoes major corporate changes (e.g., mergers, splits, or rebranding), it may receive a new ISIN."
+  },
+  {
+    "que": "Q: Do all securities have an ISIN?",
+    "ans": "A: Almost all securities traded internationally are assigned an ISIN. However, some private securities or those not traded on public exchanges may not have an ISIN."
+  },
+  {
+    "que": "Q: How does an ISIN help with cross-border investing?",
+    "ans": "A: ISINs allow investors to easily identify and trade securities across different countries and exchanges. It eliminates the need for different identification systems in each country, enabling seamless transactions on a global scale."
+  },
+  {
+    "que": "Q: Is an ISIN used to track a company's performance?",
+    "ans": "A: No, an ISIN does not track a company’s performance. It is simply a unique identifier. However, ISINs are linked to specific securities whose performance can be tracked through various financial reports and data feeds."
+  }
+]

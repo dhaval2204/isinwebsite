@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+
+  .section {
+    @apply relative w-full py-10;
+  }
+
+  /* TABLE */
+  .table-responsive {
+    @apply w-full overflow-x-auto;
+  }
+
+  .table {
+    @apply w-full text-left;
+  }
+
+  .table tr th {
+    @apply py-3 font-semibold;
+  }
+
+  .table tr th,
+  .table tr td {
+    @apply py-2.5 px-2.5 transition-all duration-300;
+  }
+
+  .table.table-bordered tr th,
+  .table.table-bordered tr td {
+    @apply border-b border-orange-50;
+  }
+
+  .table.table-bordered tr:last-child td {
+    @apply border-b-0;
+  }
+
+  .table.table-hovered tr:hover td {
+    @apply bg-orange-50;
+  }
+
+  .table.table-stripped tr:nth-child(odd) {
+    @apply bg-orange-50/40;
+  }
+  
+  /* BUTTON */
+  .btn {
+    @apply inline-flex items-center justify-center py-2 px-4 rounded-md font-medium select-none transition-all duration-300;
+  }
+
+  .btn-sm {
+    @apply text-sm
+  }
+
+  .btn-primary {
+    @apply bg-[#f89939] hover:bg-orange-600 text-white
+  }
+}
